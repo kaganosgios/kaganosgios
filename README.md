@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced Swift techniques and improving my skills in iOS app development.
 - 💞 I’m looking to collaborate on open-source iOS projects or innovative app ideas.
 - 📫 You can reach me via email at kagankaplan1925@gmail.com
-- 😄 Pronouns: Man
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Student:(
 
 <!---
