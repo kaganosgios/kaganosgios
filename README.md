@@ -5,6 +5,7 @@
 - 📫 You can reach me via email at kagankaplan1925@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Student:(
+- Check out my app on app store : Harika Masallar
 
 <!---
 kaganosgios/kaganosgios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
